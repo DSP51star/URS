@@ -1,2 +1,7 @@
-# MyFirstRepository
-Este es mi primer repositorio, tratarlo bien;)
+# URS MANAGER
+Terminal ficticia de la Agencia de IA
+==============================================
+
+**Urs rename**
+
+==============================================
