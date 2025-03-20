@@ -1,5 +1,5 @@
 # URS MANAGER
-Terminal ficticia de la Agencia de IA
+Aceptar los Teminos y Condiciones antes
 
 Dependencis: ***Python**** V1.1 or above
 
