@@ -22,3 +22,5 @@ Al utilizar cualquier software, archivo o servicio proporcionado por el Proveedo
 El Proveedor se reserva el derecho de modificar o actualizar este descargo de responsabilidad en cualquier momento sin previo aviso. Se recomienda al usuario revisar periódicamente este documento para estar informado de cualquier cambio.
 
 Fecha de última actualización: 20/3/2025
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=FBHdc33vx0CGaVadMufim6-MMcVc0ftEvhBiP_B8JXdUMFJJMDdOQ1hPSTNEN05XTUJDVU9SNzgwUS4u
